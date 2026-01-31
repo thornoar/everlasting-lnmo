@@ -4,4 +4,4 @@ init:
 label everlasting_lnmo:
 
     show example
-    "The mod has NOT started"
+    "The mod has NOT started."
